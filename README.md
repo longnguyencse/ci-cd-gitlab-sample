@@ -23,5 +23,5 @@ If Auto DevOps is not already enabled for this project, you can [turn it on](htt
 #  Untility commands
 
 > gitlab-runner --debug run
-</br>
+
 > sudo gitlab-runner stop
