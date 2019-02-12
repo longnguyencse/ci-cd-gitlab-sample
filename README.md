@@ -17,6 +17,7 @@ If Auto DevOps is not already enabled for this project, you can [turn it on](htt
 # Fix bug 
 
 > https://gitlab.com/gitlab-org/gitlab-runner/issues/3750
+
 > https://gitlab.com/gitlab-org/gitlab-runner/issues/2831
 
 #  Untility commands
