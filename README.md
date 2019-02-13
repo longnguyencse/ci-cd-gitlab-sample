@@ -25,6 +25,8 @@ If Auto DevOps is not already enabled for this project, you can [turn it on](htt
 
 > https://medium.com/@jonathanborges/new-runner-has-not-connected-yet-b6fc6ce50e4e
 
+> https://stackoverflow.com/questions/42968814/how-to-make-the-activated-specific-runner-of-gitlab-working
+
 #  Untility commands
 
 > gitlab-runner --debug run
