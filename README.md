@@ -30,3 +30,7 @@ If Auto DevOps is not already enabled for this project, you can [turn it on](htt
 > gitlab-runner --debug run
 
 > sudo gitlab-runner stop
+
+# More
+> https://viblo.asia/p/phan-1-gioi-thieu-ve-kubernetes-924lJO6m5PM
+
