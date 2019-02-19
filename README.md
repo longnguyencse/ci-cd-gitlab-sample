@@ -36,3 +36,4 @@ If Auto DevOps is not already enabled for this project, you can [turn it on](htt
 # More
 > https://viblo.asia/p/phan-1-gioi-thieu-ve-kubernetes-924lJO6m5PM
 
+gitlab-runner register --non-interactive --executor 'shell' --url 'https://gitlab/' --registration-token 'token'
